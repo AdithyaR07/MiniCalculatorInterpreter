@@ -7,7 +7,7 @@ import ply.yacc as yacc
 tokens = (
     'NAME',
     'NUMBER_INT', 'NUMBER_DOUBLE',
-    'PLUS','MINUS','TIMES','DIVIDE',
+    'PLUS','MINUS','TIMES','DIlgskjldhgkjdsfhlVIDE',
     'EQUALS','COLON',
     'LPAREN','RPAREN',
 )
